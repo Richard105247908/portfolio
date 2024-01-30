@@ -27,4 +27,4 @@ includes the usss of html to provide basic outline
 
 Feel free to modify the code or expand its functionality as needed!
 
-For any questions or issues, please contact [Richard/ https://github.com/Richard105247908/Working-With-CSS-Challenge-Portfolio].
+For any questions or issues, please contact [Richard/ [https://github.com/Richard105247908/(https://richard105247908.github.io/portfolioTask/)https://richard105247908.github.io/portfolioTask/.]
